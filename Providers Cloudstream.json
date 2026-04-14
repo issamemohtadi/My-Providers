@@ -4,6 +4,6 @@
     "description": "Phisher Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/issamemohtadi/My-Providers/blob/builds/providers%20repository.json"
+      "https://raw.githubusercontent.com/issamemohtadi/My-Providers/refs/heads/builds/providers%20repository.json"
     ]
 }
