@@ -1,8 +1,23 @@
+ [
 {
-    "name": "My providers repository",
-    "description": "Cloudstream Plugin Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/plugins.json"
-    ]
-}
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "status": 1,
+        "version": 611,
+        "name": "StreamPlay",
+        "internalName": "StreamPlay",
+        "authors": [
+            "Phisher98",
+            "Hexated"
+        ],
+        "description": "#1 best extention based on MultiAPI",
+        "fileSize": 917281,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ]
