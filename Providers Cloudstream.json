@@ -1,7 +1,7 @@
 {
-    "name": "Phisher Repo",
+    "name": "Providers Repo",
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png",
-    "description": "Phisher Repository",
+    "description": "Providers Repository",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/issamemohtadi/My-Providers/refs/heads/builds/providers%20repository.json"
