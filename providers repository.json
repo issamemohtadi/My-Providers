@@ -21,69 +21,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
         "fileHash": "sha256-aadfe4a47659a9c2cb9bb87b2f266913b19278b71821aab013e5c04509af4918"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
-        "status": 1,
-        "version": 611,
-        "name": "StreamPlay",
-        "internalName": "StreamPlay",
-        "authors": [
-            "Phisher98",
-            "Hexated"
-        ],
-        "description": "#1 best extention based on MultiAPI",
-        "fileSize": 917281,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "en",
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie",
-            "Cartoon",
-            "AnimeMovie"
-        ],
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "apiVersion": 1
-    },
-   
-    {
-        "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
-        "fileSize": 42324,
-        "status": 1,
-        "authors": [
-            "anhdaden", "RowdyRushya"
-        ],
-        "version": 9,
-        "internalName": "SyncProvider",
-        "description": "\u0110\u1ed3ng b\u1ed9 c\u00e0i \u0111\u1eb7t v\u00e0 l\u1ecbch s\u1eed xem gi\u1eefa c\u00e1c thi\u1ebft b\u1ecb",
-        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/SyncProvider.cs3",
-        "name": "Cross-Device Sync"
-    },
-
- {
-        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullMatchShows.cs3",
-        "status": 1,
-        "version": 2,
-        "name": "FullMatchShows",
-        "internalName": "FullMatchShows",
-        "authors": [
-            "kraptor"
-        ],
-        "description": "Watch latest football full match replay of Premier League, Champions League, LaLiga, Serie A, Bundesliga, Ligue 1, Europa League, and more... FullMatchShows - Watch Football Full Match Replay and Shows",
-        "fileSize": 21712,
-        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-        "language": "en",
-        "tvTypes": [
-            "Live"
-        ],
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullmatchshows.com&size=128",
-        "apiVersion": 1,
-        "fileHash": "sha256-a28480a84f6b949d64a6a9accdfa6bedd04896513929b6bfcb848a6508fef4fb"
     }
-
+   
     
 ]
