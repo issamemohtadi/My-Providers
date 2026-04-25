@@ -1,28 +1,28 @@
 [
  {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
+  "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "status": 1,
-        "version": 31,
-        "name": "Bollyflix",
-        "internalName": "Bollyflix",
+        "version": 412,
+        "name": "CineStream",
+        "internalName": "CineStream",
         "authors": [
             "megix"
         ],
-        "description": "Movies and Series upto 4K",
-        "fileSize": 39487,
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "fileSize": 653597,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "language": "hi",
         "tvTypes": [
             "TvSeries",
             "Movie",
             "AsianDrama",
-            "Anime"
+            "Anime",
+            "Torrent"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-67e246bb384ad78a7ce165b4e3c8dd3d4ed890c637c0c397232fdc7b2e46af25"
-        
-    },
+        "fileHash": "sha256-26276239212999154fe5880e29734b09da8d1711b2361d798d46352e6c6481d2"
+    
+          },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "status": 1,
